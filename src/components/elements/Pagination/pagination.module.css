@@ -1,0 +1,12 @@
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: 100px;
+}
+
+.pagination-container li {
+  background-color: rgb(235, 238, 243) !important;
+  border: none !important;
+}

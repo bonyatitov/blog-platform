@@ -1,0 +1,10 @@
+.content-container {
+  padding: 0 10px 0 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+}

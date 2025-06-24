@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.app-loyout {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-container h1 {
+  font-size: 18px;
+  background-color: white;
+  color: black;
+}
+
+.btn-container {
+  display: flex;
+  gap: 10px;
+}
+
+.link {
+  background-color: white;
+}

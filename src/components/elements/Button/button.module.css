@@ -1,0 +1,17 @@
+.btn-auth {
+  width: 109px !important;
+}
+
+.link {
+  background: none;
+  text-decoration: none;
+  border: none
+}
+
+.link button {
+  border: none;
+}
+
+.link button:hover {
+  border: 1px solid;
+}
